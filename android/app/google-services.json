@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771461249135",
+    "project_id": "financial-report-3938e",
+    "storage_bucket": "financial-report-3938e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771461249135:android:e990b612d203c3b4c8759a",
+        "android_client_info": {
+          "package_name": "com.example.financial_report_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp3vPawkNGl-0PWSQ1_Qb_Kd9ZUoCMGnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
